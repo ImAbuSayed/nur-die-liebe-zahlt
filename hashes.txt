@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nur die Liebe zählt
+
+This log tracks the cryptographic history and versioning for the song **Nur die Liebe zählt** (nur-die-liebe-zahlt).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-30T03:25:43.913618 | `v1` | `384ade0865f34d02f95463d5eee2ac85218c45b276c98054cf0c02137dc0b58b` | `393d7c51e1043f7fea656369cf749eec6a612434fa4387d11aedb033c8297006` | `2026-06-30_nur-die-liebe-zahlt-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

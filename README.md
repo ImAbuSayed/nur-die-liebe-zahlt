@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/nur-die-liebe-zahlt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Nur die Liebe zählt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nur-die-liebe-zahlt/) |
+| **Get License** | [Official Music Licensing for Nur die Liebe zählt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nur-die-liebe-zahlt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `384ade0865f34d02f95463d5eee2ac85218c45b276c98054cf0c02137dc0b58b` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
