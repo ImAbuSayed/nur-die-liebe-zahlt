@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/nur-die-liebe-zahlt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Nur die Liebe zählt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nur-die-liebe-zahlt/) |
+| **Get License** | [Obtain a Music License for Nur die Liebe zählt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nur-die-liebe-zahlt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Immer wenn die Lichter fallen, Babe, denk' ich nur an dich
+> Fahr' durch meine City, dunkle Scheiben, spür' den Kick
+> Der Bass ist laut, wir flyen hoch, die Sterne in der Nacht
+> Nur die Liebe zählt, Babe, schau mal, was du mit mir machst
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
